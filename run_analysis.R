@@ -1,5 +1,5 @@
 # Step1. Merges the training and the test sets to create one data set.
-# setwd("~/Desktop/Online Coursera/Coursera-Getting-and-Cleaning-Data/peer_assessment/")
+# setwd("C:\Users\Mughundhan\Coursera\C3 - Getting & Cleaning Data\Week4\Assignments")
 trainData <- read.table("./data/train/X_train.txt")
 dim(trainData) # 7352*561
 head(trainData)
